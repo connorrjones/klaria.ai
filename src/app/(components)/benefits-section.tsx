@@ -331,7 +331,7 @@ export function BenefitsSection() {
                       Affordable Pricing
                     </h4>
                     <p className="text-blue-100/70">
-                      Starting at just $29/month compared to Intercom's
+                      Starting at just $29/month compared to Intercom&apos;s
                       $99/month
                     </p>
                   </div>

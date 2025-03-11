@@ -117,7 +117,7 @@ export function CtaSection() {
                     className="bg-white/10 rounded-lg p-4 max-w-[80%]"
                   >
                     <p className="text-white">
-                      I'd like to learn more about NexusAI for my business.
+                      I&apos;d like to learn more about NexusAI for my business.
                     </p>
                   </div>
 
@@ -125,7 +125,7 @@ export function CtaSection() {
                     className="bg-blue-600/30 rounded-lg p-4 max-w-[80%] ml-auto"
                   >
                     <p className="text-white">
-                      I'd be happy to help! NexusAI can automate up to 80% of
+                      I&apos;d be happy to help! NexusAI can automate up to 80% of
                       your customer inquiries, provide 24/7 support, and
                       integrate with your existing systems. Would you like to
                       start a free trial or schedule a demo?
@@ -136,7 +136,7 @@ export function CtaSection() {
                     className="bg-white/10 rounded-lg p-4 max-w-[80%]"
                   >
                     <p className="text-white">
-                      I'd like to start a free trial.
+                      I&apos;d like to start a free trial.
                     </p>
                   </div>
 
@@ -144,8 +144,8 @@ export function CtaSection() {
                     className="bg-blue-600/30 rounded-lg p-4 max-w-[80%] ml-auto"
                   >
                     <p className="text-white">
-                      Great choice! I'll guide you through the setup process. It
-                      only takes a few minutes, and you'll be able to experience
+                      Great choice! I&apos;ll guide you through the setup process. It
+                      only takes a few minutes, and you&apos;ll be able to experience
                       the full capabilities of NexusAI for 14 days, no credit
                       card required.
                     </p>
